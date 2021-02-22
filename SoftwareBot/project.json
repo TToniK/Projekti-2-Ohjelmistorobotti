@@ -1,16 +1,17 @@
 {
-  "name": "SoftwareBot",
-  "description": "Bot",
-  "main": "Main.xaml",
+  "name": "ClickWebpage",
+  "description": "Blank Process",
+  "main": "ClickWebpage.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.8.6]",
-    "UiPath.Mail.Activities": "[1.8.6]",
-    "UiPath.System.Activities": "[20.4.0]",
-    "UiPath.UIAutomation.Activities": "[20.4.2]"
+    "UiPath.Excel.Activities": "[2.9.3]",
+    "UiPath.Mail.Activities": "[1.9.3]",
+    "UiPath.System.Activities": "[20.10.1]",
+    "UiPath.UIAutomation.Activities": "[20.10.6]"
   },
   "webServices": [],
+  "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "20.4.3.0",
+  "studioVersion": "20.10.2.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -21,7 +22,9 @@
       "Private:*",
       "*password*"
     ],
-    "executionType": "Workflow"
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
   },
   "designOptions": {
     "projectProfile": "Developement",
@@ -30,7 +33,22 @@
       "includeOriginalXaml": false,
       "privateWorkflows": []
     },
-    "fileInfoCollection": []
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
   },
-  "expressionLanguage": "VisualBasic"
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "ClickWebpage.xaml",
+      "uniqueId": "97e80390-a233-457b-8942-9f126d2755a7",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
 }
