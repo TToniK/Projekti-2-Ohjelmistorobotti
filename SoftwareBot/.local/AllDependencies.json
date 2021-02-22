@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "SoftwareBot",
       "projectName": "SoftwareBot",
-      "projectPath": "C:\\Users\\karit\\source\\Ohjelmistorobotti\\SoftwareBot1\\.local",
+      "projectPath": "C:\\Users\\karit\\source\\Projektityö 2\\Projekti-2-Ohjelmistorobotti\\SoftwareBot\\.local",
       "packagesPath": "C:\\Users\\karit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karit\\source\\Ohjelmistorobotti\\SoftwareBot1\\.local"
+      "outputPath": "C:\\Users\\karit\\source\\Projektityö 2\\Projekti-2-Ohjelmistorobotti\\SoftwareBot\\.local"
     },
     "frameworks": {
       "net461": {
