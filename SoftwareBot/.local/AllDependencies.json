@@ -5110,9 +5110,9 @@
     "restore": {
       "projectUniqueName": "ClickWebpage",
       "projectName": "ClickWebpage",
-      "projectPath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Botti\\SoftwareBot\\.local",
+      "projectPath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local",
       "packagesPath": "C:\\Users\\karit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Botti\\SoftwareBot\\.local"
+      "outputPath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5141,5 +5141,13 @@
         "runtimeIdentifierGraphPath": "C:\\Users\\karit\\AppData\\Local\\UiPath\\app-21.4.0\\runtime.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local\\nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

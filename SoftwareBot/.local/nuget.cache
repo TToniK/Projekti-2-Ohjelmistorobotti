@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OhlqTSQIl6CCcIVu1BGHkJIBxQgG+vY8jC+d0VNPOF3XA/CB1mDh+HCmfBdtKbUienzo8gGtJu2ZhUBg+ah78w==",
+  "dgSpecHash": "NXpfrSTqzrrPlE419ttoKeGkJhIqG4V3NDW0ImEKfIaNgyeli1ddNW3AnogaOmm0lurblTRHEBATepHE9o/oYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Botti\\SoftwareBot\\.local\\",
+  "projectFilePath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\karit\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\karit\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
@@ -73,5 +73,13 @@
     "C:\\Users\\karit\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\uipath.uiautomation.activities.20.10.6.nupkg.sha512",
     "C:\\Users\\karit\\.nuget\\packages\\uipath.vision\\2.2.0\\uipath.vision.2.2.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local",
+      "message": "Problem reading the cache file C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local\\nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
