@@ -5104,15 +5104,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EeroO\\.nuget\\packages\\": {}
+    "C:\\Users\\karit\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "ClickWebpage",
       "projectName": "ClickWebpage",
-      "projectPath": "C:\\dev\\14.4 ohj\\Projekti-2-Ohjelmistorobotti\\SoftwareBot\\.local",
-      "packagesPath": "C:\\Users\\EeroO\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\14.4 ohj\\Projekti-2-Ohjelmistorobotti\\SoftwareBot\\.local"
+      "projectPath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Botti\\SoftwareBot\\.local",
+      "packagesPath": "C:\\Users\\karit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Botti\\SoftwareBot\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5138,7 +5138,7 @@
             "version": "[20.10.6, 20.10.6]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\EeroO\\AppData\\Local\\UiPath\\app-21.2.0-beta0044\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\karit\\AppData\\Local\\UiPath\\app-21.4.0\\runtime.json"
       }
     }
   }
