@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7aU/L5JorFW27pg0uEJz3VeEX2KQybEMEeITtCeMdETxj+iokkAB6b2ypbIAGX3VG6U2oBIRhL+r9xHTbl+Blg==",
+  "dgSpecHash": "gyfQxohkTQsAw+mw65XH3WjSrYEnIVitWpK2eUc4qnXqNjKO1VdjYWHki/01h9n3y3t+ixO3CC8hCtcsFXyWXg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Ohjelmistorobot master\\Projekti-2-Ohjelmistorobotti\\SoftwareBot\\.local\\",
+  "projectFilePath": "C:\\dev\\14.4 ohj\\Projekti-2-Ohjelmistorobotti\\SoftwareBot\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\EeroO\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\EeroO\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
