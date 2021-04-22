@@ -5138,16 +5138,8 @@
             "version": "[20.10.6, 20.10.6]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\karit\\AppData\\Local\\UiPath\\app-21.4.0\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\karit\\AppData\\Local\\UiPath\\app-21.4.2\\runtime.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local\\nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
