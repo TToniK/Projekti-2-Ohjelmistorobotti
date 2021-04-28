@@ -140,7 +140,7 @@
                       <OutArgument x:TypeArguments="x:String">[filePath]</OutArgument>
                     </Assign.To>
                     <Assign.Value>
-                      <InArgument x:TypeArguments="x:String">["C:\Users\karit\OneDrive\Tiedostot\Pääprojekti\SoftwareBot\Yritykset\"+row("Yrityksen nimi").ToString]</InArgument>
+                      <InArgument x:TypeArguments="x:String">["C:\Users\karit\OneDrive\Työpöytä\Pääprojekti\SoftwareBot\Yritykset\"+row("Yrityksen nimi").ToString]</InArgument>
                     </Assign.Value>
                   </Assign>
                   <ui:CreateDirectory ContinueOnError="{x:Null}" DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="333.6,80.8" sap2010:WorkflowViewState.IdRef="CreateDirectory_2" Path="[filePath]" />

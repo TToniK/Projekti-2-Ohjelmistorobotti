@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0dG9Ko9UHVL+oHPZFkmYHXvLcbH4X5zsz0+9rdgfLdIYySxEIb29mcgTePvVL6p7e0aS/UokCZvJ5iwWfqEbKA==",
+  "dgSpecHash": "cbjOXUGPIvWmNG+fU4SuatUHfvSAlnJQd63L66C0DU90O0ECRvEBrg8qW6kwf2KEZUBO1f+9Pj5bA7vimPSnQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karit\\OneDrive\\Tiedostot\\Pääprojekti\\SoftwareBot\\.local\\",
+  "projectFilePath": "C:\\Users\\karit\\OneDrive\\Työpöytä\\Pääprojekti\\SoftwareBot\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\karit\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\karit\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
